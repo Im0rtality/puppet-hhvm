@@ -13,7 +13,7 @@
     }
    ],
   "dependencies": [
-    {"name":"puppetlabs/vcsrepo","version_requirement":"0.1.2"},
+    {"name":"puppetlabs/vcsrepo","version_requirement":"1.2.0"},
     {"name":"example42/apt","version_requirement":"2.0.7"}
   ],
   "summary": "Install HipHop VM (HHVM Virtual Machine) - the PHP Just in Time environment/compiler by Facebook"
